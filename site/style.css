@@ -1,0 +1,13 @@
+* {
+    box-sizing:border-box;
+}
+body {
+    margin:0;
+    padding:0;
+}
+
+nav li {
+    text-decoration:none;
+    display:inline;
+    margin-right:50px;
+}
